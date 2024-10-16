@@ -3,7 +3,7 @@
 //  Nettbutikk
 //
 //  Created by Håkon Bogen on 04/09/2024.
-//
+// hei dette er en test
 
 import SwiftUI
 import SwiftData
